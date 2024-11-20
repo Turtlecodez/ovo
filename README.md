@@ -1,4 +1,5 @@
 # OvO Modloader
+# not made by me, made by "arjun99ab" here on github
 
 A feature rich, gui integrated OvO mod menu.
 
